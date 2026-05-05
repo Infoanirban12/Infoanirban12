@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anirban 👋
 
-<!--
-**Infoanirban12/Infoanirban12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI + Full Stack Engineer  
+💡 Interested in LLMs, RAG, and real-world AI applications  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- AI Knowledge Assistant (RAG + LLM)
+- Fraud Email Detection System
+- Telegram Bot Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python, JavaScript, TypeScript  
+- React, Node.js, Flask  
+- OpenAI API, FAISS, MongoDB  
+
+## 📫 Contact
+- LinkedIn: <your [link]([[url](https://www.linkedin.com/in/anirban-kar-3100b2250/)](url))>
+- Email: <your email>
