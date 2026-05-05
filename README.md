@@ -14,5 +14,5 @@
 - OpenAI API, FAISS, MongoDB  
 
 ## 📫 Contact
-- LinkedIn: <your [link]([[url](https://www.linkedin.com/in/anirban-kar-3100b2250/)](url))>
+- LinkedIn: <your [Link Link](https://www.linkedin.com/in/anirban-kar-3100b2250/)>
 - Email: <your email>
